@@ -1,0 +1,22 @@
+{
+  "contact_1": {
+    "name": "Adam",
+    "number": "+00000000000",
+    "bday": "2024-02-01"
+  },
+  "contact_2": {
+    "name": "Jerry",
+    "number": "+00000000000",
+    "bday": "2024-01-31"
+  },
+  "contact_3": {
+    "name": "Ana",
+    "number": "+00000000000",
+    "bday": "2024-05-02"
+  },
+  "contact_4": {
+    "name": "Laura",
+    "number": "+00000000000",
+    "bday": "2024-09-01"
+  }
+}

@@ -1,0 +1,8 @@
+/profile
+/__pycache__
+
+*.key
+
+resources/bday_memeDOWNLOAD.jpg
+resources/msgDOWNLOAD.txt
+resources/contacts.json

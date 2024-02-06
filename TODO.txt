@@ -1,8 +1,0 @@
-
-
-Another desktop Python program to manage the list of contacts: a GUI app using PyQt.
-Ability to send photos and documents: just more Selenium code.
-Ability to send message, photos and documents to a group chat.
-Ability to work with cloud relational databases Azure
-More input validation is still needed.
-Work on calculating feb (leap year) and chinese new year
